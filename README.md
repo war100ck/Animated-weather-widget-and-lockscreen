@@ -2,5 +2,5 @@
 Module for Magic, Redmi 5.
 
 ### Screen
-![screenshot](https://photos.app.goo.gl/HguqvzpFPdmG5QFHA)
+![screenshot](https://i.imgur.com/V2U7dFU.jpg)
 ---
