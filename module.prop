@@ -1,0 +1,7 @@
+id=clockanim
+name=Clock Anim_Weather_v2_5, Moded Lockscreen - Xiaomi Redmi 5
+version=v0.1
+versionCode=3
+author=WAR100CK
+description=Модификация добавляет аннимированный виджет погоды и экран блокировки с ним. Сделано для Xiaomi Redmi 5
+minMagisk=15000
