@@ -1,5 +1,5 @@
 # Animated weather widget and lock screen.
-Module for Magic, Redmi 5.
+Module for Magisk, Redmi 5.
 
 ### Screen
 <p align="center">
